@@ -1,3 +1,7 @@
+### This project is part of my Data Analysis with Python certification. 
+### These are the copy of my original repository files on Replit. For original repository, [click here](https://replit.com/@atabaycetin/boilerplate-medical-data-visualizer-1#medical_data_visualizer.py)  
+### [Certification Link](https://www.freecodecamp.org/certification/Taha_Atabay_Cetin/data-analysis-with-python-v7)
+#
 ### Assignment
 
 In this project, you will visualize and make calculations from medical examination data using matplotlib, seaborn, and pandas. The dataset values were collected during medical examinations.
